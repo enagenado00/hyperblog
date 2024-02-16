@@ -3,3 +3,4 @@ color: #333; background-color: #eee;;}
 .container {max-width: 80%; margin: auto;}
 .cabecera {background-color: purple; color: white; padding: 15px;}
 .post {padding: 15px; border: solid 2px #333; background: white;}
+.footer {background: #222; color: #eee; padding: 15px;}
