@@ -1,5 +1,8 @@
 body { font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 color: #333; background-color: #eee;;}
 .container {max-width: 80%; margin: auto;}
-.cabecera {background-color: purple; color: white; padding: 15px;}
+.cabecera {background-color: orange; color: white; padding: 15px; display:flex;}
 .post {padding: 15px; border: solid 2px #333; background: white;}
+
+.w-50 {width: 50%; display: inline;}
+.img-fluid {width: 100%; height: auto;}
